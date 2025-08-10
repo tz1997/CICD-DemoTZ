@@ -1,1 +1,1 @@
-print("Hello, Cloud CI/CD!")
+print("Tony is a good teacher")
